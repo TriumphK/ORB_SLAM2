@@ -14,6 +14,8 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/embed/kPwy8yA4CKM" target="_blank"><img src="http://img.youtube.com/vi/kPwy8yA4CKM/0.jpg" 
 alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
+### Triumph Learning Record
+Learning...
 
 ### Related Publications:
 
